@@ -1,0 +1,39 @@
+{
+	"profile": {
+		"img": "images/pp.jpg",
+		"name": "Nandam Sai Sri Harsha",
+		"roll": "16a31a1254",
+		"institute": "Pragati Enginnering College",
+		"place": "Rajahmundry"
+	},
+	"career": {
+		"info": "To Secure a challenging position where i can explore my talents for the benefits of the company"
+	},
+
+	"education": [{
+			"s.no": "1",
+			"degree": "b.tech",
+			"institute": "Pragati Enginnering College",
+			"yop": "2020"
+		},
+		{
+			"s.no": "2",
+			"degree": "inter",
+			"institute": "Geetham",
+			"yop": "2016"
+		},
+		{
+			"s.no": "1",
+			"degree": "ssc",
+			"institute": "Pragati",
+			"yop": "2014"
+		}
+	],
+	"languages": [{
+			"lang": "english"
+		},
+		{
+			"lang": "Telugu"
+		}
+	]
+}
